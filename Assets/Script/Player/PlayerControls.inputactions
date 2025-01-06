@@ -1,0 +1,134 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Move",
+            "id": "68631a7a-819e-4c2d-8ca0-a70db35e7869",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "Value",
+                    "id": "ca9c6587-9b28-4c44-8642-c822d67c739c",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "2D Vector",
+                    "id": "c790421b-3a64-412f-abe2-0080fec06f4d",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "0a46cd8c-966e-4bbb-bd98-7e5f06de89e0",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "e5e8222c-7ae0-4d9b-a49e-807f5dca6de8",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "91697db9-8f87-45ea-9459-3f5f28fa39d4",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "a302cc6a-1825-4e67-b80a-dbefe85437cd",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        },
+        {
+            "name": "Attack",
+            "id": "5ae109f7-a66e-43b0-9c43-df5217ff5efc",
+            "actions": [
+                {
+                    "name": "Perform",
+                    "type": "Button",
+                    "id": "75a842a6-bbfa-4d30-a117-08950d4098a5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c07580ab-7f53-4c48-820e-b5dafd2ab54b",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Perform",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Action",
+            "id": "8e7dcdc7-14d7-4761-b98e-8b7b51f9b9f2",
+            "actions": [
+                {
+                    "name": "Pnp",
+                    "type": "Button",
+                    "id": "15b4cd94-ee28-4021-9023-fb1b6968d07a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "62b98fdf-f7ac-46c5-81ba-5191b0838d62",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pnp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

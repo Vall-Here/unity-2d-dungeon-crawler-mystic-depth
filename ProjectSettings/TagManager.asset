@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slot
+  - GroundTile
+  - Pushable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Item
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3549246455
+    locked: 0
+  - name: Ground
+    uniqueID: 3432246663
+    locked: 0
+  - name: Foreground
+    uniqueID: 3139325347
+    locked: 0
+  - name: Cosmetic
+    uniqueID: 353333599
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3160469787
+    locked: 0
+  - name: Player
+    uniqueID: 848248193
+    locked: 0
+  - name: Projectile
+    uniqueID: 2525815017
+    locked: 0
+  - name: UI
+    uniqueID: 2713738947
+    locked: 0

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU/mainMenu.unity
+    guid: 6fd20a63f10ec5a4a8882ec559651f57
+  - enabled: 1
+    path: Assets/Scenes/MENU/selectLevelScene.unity
+    guid: 120df84320ff69946b784e726918eb4f
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level1.unity
+    guid: 7510a7a7a628eb3419cff04b425721ed
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level2.unity
+    guid: c7a93ec5b05b4654084cdeaf571087a9
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level3.unity
+    guid: 8ab41d85e73ea4a4393f0ed705437220
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level4.unity
+    guid: 4a574615b59969a45bfd9b9c8c3ebdc9
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level5.unity
+    guid: 04fd5c75d957a7d4aaf39e202667ef02
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level6.unity
+    guid: e623a492550eafe4aa20fcb0b40e370d
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level7.unity
+    guid: fb28438cdbde4bc41a900be3641215ba
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level8.unity
+    guid: 8134e6e442e18fd40a0e3cd046be1d40
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level9.unity
+    guid: 387fe9485c4895b49950a7c5a1a6e6f8
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level10.unity
+    guid: 1a91381c64149f74f9b11871e708fc70
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level11.unity
+    guid: 0755828132231dd4798132193ca6461d
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level12.unity
+    guid: a951d3ffe7f32d544ab2ff396d00286e
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level13.unity
+    guid: 5ff0c5aacb3e0154d9dc7c252abc8f35
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level14.unity
+    guid: 6662cb112702ffb429fba0623c476a28
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/Level15.unity
+    guid: 493318d7c957e39409ba3948a950ef38
+  - enabled: 1
+    path: Assets/Scenes/LEVEL/BossScene.unity
+    guid: 4f68aece1e90f224e83b97e81a72ac07
+  m_configObjects: {}

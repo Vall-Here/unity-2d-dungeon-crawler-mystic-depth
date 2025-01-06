@@ -1,0 +1,2836 @@
+fileFormatVersion: 2
+guid: 77189ab947292f94ea46fbcf6e2c9915
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 5-Enemy-Captain_Frame_0
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 2c0eaed0e3a8b9f48a1174ed5e8f2cf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 227}
+  - name: 5-Enemy-Captain_Frame_10
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 227
+      width: 48
+      height: 66
+    spriteID: cd8036edd61ca9049a0c436efb0ee6d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 227}
+  - name: 5-Enemy-Captain_Frame_11
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 302
+      width: 48
+      height: 63
+    spriteID: cbaffde08d24dac48990c3dd93fd6e6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 302}
+  - name: 5-Enemy-Captain_Frame_13
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 904
+      y: 227
+      width: 48
+      height: 65
+    spriteID: 86630ebc4158df1489ae4dff5c7b56b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 904, y: 227}
+  - name: 5-Enemy-Captain_Frame_24
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 960
+      y: 227
+      width: 48
+      height: 65
+    spriteID: 0a5334d656e3bbd4597cec0a28df5897
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 960, y: 227}
+  - name: 5-Enemy-Captain_Frame_25
+    originalName: 
+    pivot: {x: 0.62, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 924
+      y: 74
+      width: 50
+      height: 65
+    spriteID: c0e8b019b020efe40b726528fd17dbf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 924, y: 74}
+  - name: 5-Enemy-Captain_Frame_26
+    originalName: 
+    pivot: {x: 0.62, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 154
+      width: 50
+      height: 65
+    spriteID: a0f3f8a4689805f4abc161eb26370845
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 154}
+  - name: 5-Enemy-Captain_Frame_27
+    originalName: 
+    pivot: {x: 0.62, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 74
+      width: 50
+      height: 66
+    spriteID: dec6b638976bf5641bb98cb7ea4be780
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 346, y: 74}
+  - name: 5-Enemy-Captain_Frame_28
+    originalName: 
+    pivot: {x: 0.62, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 74
+      width: 50
+      height: 69
+    spriteID: 730677ed2821cfd48b2c9ad06c2b9253
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 74}
+  - name: 5-Enemy-Captain_Frame_30
+    originalName: 
+    pivot: {x: 0.62, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 74
+      width: 50
+      height: 67
+    spriteID: 713943f248b65f043834befd22257270
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 74}
+  - name: 5-Enemy-Captain_Frame_31
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 227
+      width: 48
+      height: 67
+    spriteID: d01e2f00be13a644e9634e3e5cacf91e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 227}
+  - name: 5-Enemy-Captain_Frame_32
+    originalName: 
+    pivot: {x: 0.59090906, y: -0.030303031}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 379
+      width: 44
+      height: 66
+    spriteID: b3c553fe006eb464782a3b93a7bcaf41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 321, y: 379}
+  - name: 5-Enemy-Captain_Frame_33
+    originalName: 
+    pivot: {x: 0.6, y: -0.07692309}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 379
+      width: 45
+      height: 65
+    spriteID: 57de8a23eab782849a66352ce9308049
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 379}
+  - name: 5-Enemy-Captain_Frame_36
+    originalName: 
+    pivot: {x: 0.59090906, y: -0.045454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 373
+      y: 379
+      width: 44
+      height: 66
+    spriteID: 8d42879b13a02474ba457637bb2da146
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 379}
+  - name: 5-Enemy-Captain_Frame_37
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 74
+      width: 50
+      height: 66
+    spriteID: 65c800e38d58e6c4b970b84efd17a6d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 74}
+  - name: 5-Enemy-Captain_Frame_39
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.04615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 502
+      y: 302
+      width: 46
+      height: 65
+    spriteID: ecfd7fb3e9366a04b94831dafee4106e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 502, y: 302}
+  - name: 5-Enemy-Captain_Frame_40
+    originalName: 
+    pivot: {x: 0.6, y: -0.09375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 425
+      y: 379
+      width: 45
+      height: 64
+    spriteID: a673c89a7fd7d424aa45dddade5379a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 379}
+  - name: 5-Enemy-Captain_Frame_43
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 556
+      y: 302
+      width: 46
+      height: 65
+    spriteID: 4c95a748948029448871d77c8736eae1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 556, y: 302}
+  - name: 5-Enemy-Captain_Frame_44
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 462
+      y: 74
+      width: 50
+      height: 66
+    spriteID: a5ecb35be921c764cb161b44cc9c63b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 462, y: 74}
+  - name: 5-Enemy-Captain_Frame_46
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 154
+      width: 48
+      height: 65
+    spriteID: be5aa12c26a3f76448843929bfcc650f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 154}
+  - name: 5-Enemy-Captain_Frame_47
+    originalName: 
+    pivot: {x: 0.6136364, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 379
+      width: 44
+      height: 70
+    spriteID: 5fa7e069be2802a4894d6fa2827090c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 379}
+  - name: 5-Enemy-Captain_Frame_49
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.044776123}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 302
+      width: 46
+      height: 67
+    spriteID: 3545f936f23432640871f2a4faac164a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 302}
+  - name: 5-Enemy-Captain_Frame_50
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.11111112}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 302
+      width: 48
+      height: 63
+    spriteID: 6819a012fdadff54cb7cada41cb34e98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 302}
+  - name: 5-Enemy-Captain_Frame_51
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.044776123}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 302
+      width: 46
+      height: 67
+    spriteID: 21744125e7d4d9b46bc71b33a0a9ce2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 302}
+  - name: 5-Enemy-Captain_Frame_52
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.014492754}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 302
+      width: 46
+      height: 69
+    spriteID: 6092d223374832c449741c9621e9cf7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 302}
+  - name: 5-Enemy-Captain_Frame_53
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 788
+      y: 227
+      width: 50
+      height: 63
+    spriteID: ababa789e3e38f44786875562e659fab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 788, y: 227}
+  - name: 5-Enemy-Captain_Frame_55
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 154
+      width: 48
+      height: 65
+    spriteID: 41a3da0ec2eec7f48b0267b3ad5e199c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 154}
+  - name: 5-Enemy-Captain_Frame_56
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 868
+      y: 74
+      width: 48
+      height: 68
+    spriteID: 3b32216f27f69ae48930771b07eecc98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 868, y: 74}
+  - name: 5-Enemy-Captain_Frame_57
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 74
+      width: 48
+      height: 69
+    spriteID: 62d4b4cd3ce72ec4f95a0c6d44993b0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 74}
+  - name: 5-Enemy-Captain_Frame_58
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 48
+      height: 72
+    spriteID: 787871d9fda8a1a488b3c6b7d915e122
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: 5-Enemy-Captain_Frame_60
+    originalName: 
+    pivot: {x: 0.42857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 70
+      height: 62
+    spriteID: 5b1b4a1a66e5be74092eca7e00df25f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 5-Enemy-Captain_Frame_61
+    originalName: 
+    pivot: {x: 0.44117647, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 4
+      width: 68
+      height: 62
+    spriteID: 9452cd068ed6bd3479308dfcafcf72c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 4}
+  - name: 5-Enemy-Captain_Frame_62
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 958
+      y: 154
+      width: 48
+      height: 64
+    spriteID: 940dc117bcb9fb94184760e60123fe0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 958, y: 154}
+  - name: 5-Enemy-Captain_Frame_63
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.030769233}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 154
+      width: 48
+      height: 65
+    spriteID: d54f6e50698d9a140a262ccd19bd9573
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 154}
+  - name: 5-Enemy-Captain_Frame_64
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 230
+      y: 154
+      width: 48
+      height: 65
+    spriteID: ac393f38669a84b4b9b5ce2b177edf47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 230, y: 154}
+  - name: 5-Enemy-Captain_Frame_66
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.030303031}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 732
+      y: 227
+      width: 48
+      height: 66
+    spriteID: b024b723887b5c0449cd4e1e8b11371d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 732, y: 227}
+  - name: 5-Enemy-Captain_Frame_67
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 520
+      y: 74
+      width: 50
+      height: 66
+    spriteID: 1a29c3c5c8ad8e9459c7715ef5624b81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 520, y: 74}
+  - name: 5-Enemy-Captain_Frame_69
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.046875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 302
+      width: 48
+      height: 64
+    spriteID: c0df0bf26e0c76740a46c2f61df01a15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 302}
+  - name: 5-Enemy-Captain_Frame_70
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.078125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 302
+      width: 48
+      height: 64
+    spriteID: 20e16d85aa691d540be2641283ec0dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 302}
+  - name: 5-Enemy-Captain_Frame_72
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.04615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 154
+      width: 48
+      height: 65
+    spriteID: 0eb922cdb7d211e478f5008f1ac1a5b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 154}
+  - name: 5-Enemy-Captain_Frame_73
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 74
+      width: 50
+      height: 66
+    spriteID: d514d14ff64653b4b96f9b50dcdb9b8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 578, y: 74}
+  - name: 5-Enemy-Captain_Frame_75
+    originalName: 
+    pivot: {x: 0.6, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 584
+      y: 379
+      width: 45
+      height: 63
+    spriteID: f84f618ee9f3218448e19494c699f869
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 584, y: 379}
+  - name: 5-Enemy-Captain_Frame_78
+    originalName: 
+    pivot: {x: 0.6, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 637
+      y: 379
+      width: 45
+      height: 63
+    spriteID: 59b0bc974ee79f04d8856c6293e58f6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 637, y: 379}
+  - name: 5-Enemy-Captain_Frame_80
+    originalName: 
+    pivot: {x: 0.6, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 690
+      y: 379
+      width: 45
+      height: 63
+    spriteID: b8ccc37e32c8eb24a9e44daba1eca789
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 690, y: 379}
+  - name: 5-Enemy-Captain_Frame_81
+    originalName: 
+    pivot: {x: 0.6086956, y: -0.078125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 379
+      width: 46
+      height: 64
+    spriteID: 03fa87be62f63a847b82ee9b43aafebd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 379}
+  - name: 5-Enemy-Captain_Frame_82
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.029850747}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 83d27f0bbe15a804093ab7ac024bcbc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 227}
+  - name: 5-Enemy-Captain_Frame_83
+    originalName: 
+    pivot: {x: 0.5671641, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 684
+      y: 302
+      width: 67
+      height: 44
+    spriteID: dc3fadfd99c54a344bda058b49e53123
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 684, y: 302}
+  - name: 5-Enemy-Captain_Frame_86
+    originalName: 
+    pivot: {x: 0.5671641, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 302
+      width: 67
+      height: 44
+    spriteID: 1a17e07359a2545468a9dbe6833ffd74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 302}
+  - name: 5-Enemy-Captain_Frame_88
+    originalName: 
+    pivot: {x: 0.56060606, y: -0.17777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 610
+      y: 302
+      width: 66
+      height: 45
+    spriteID: 5a767d8e3d4ac4942a4aa72936b91f6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 610, y: 302}
+  - name: 5-Enemy-Captain_Frame_89
+    originalName: 
+    pivot: {x: 0.5633803, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 902
+      y: 379
+      width: 71
+      height: 34
+    spriteID: 05d3a3946195fe44dafbd4d5567be1a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 902, y: 379}
+  - name: 5-Enemy-Captain_Frame_91
+    originalName: 
+    pivot: {x: 0.5671641, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 233
+      y: 4
+      width: 67
+      height: 35
+    spriteID: a81c13ae3f39b934f8ca992353296fcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 4}
+  - name: 5-Enemy-Captain_Frame_92
+    originalName: 
+    pivot: {x: 0.5671641, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 902
+      y: 463
+      width: 67
+      height: 36
+    spriteID: fbac6669ef903ce43bdbc08bf12f2298
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 902, y: 463}
+  - name: 5-Enemy-Captain_Frame_1
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 614a9f638df42e04dbe2116031285f50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 227}
+  - name: 5-Enemy-Captain_Frame_2
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 227
+      width: 48
+      height: 67
+    spriteID: ef7b11304de821d4ca5026563199e5cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 227}
+  - name: 5-Enemy-Captain_Frame_3
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 227
+      width: 48
+      height: 67
+    spriteID: a339b2fba39fa1b4e88ad482051d0b94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 227}
+  - name: 5-Enemy-Captain_Frame_4
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 002878dc63e2d1d48a4f1dcb122b4187
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 227}
+  - name: 5-Enemy-Captain_Frame_5
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 396
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 3d1652c7ece282f4b94c756a28d3b77d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 396, y: 227}
+  - name: 5-Enemy-Captain_Frame_6
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 77e5cb3371503ea4d8a6b8d102eff502
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 227}
+  - name: 5-Enemy-Captain_Frame_7
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 4e3f26bc278d9bf4ba1e70a03878d4bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 227}
+  - name: 5-Enemy-Captain_Frame_8
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 227
+      width: 48
+      height: 67
+    spriteID: dbffa274f8a6dc34aa901536e09d4592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 564, y: 227}
+  - name: 5-Enemy-Captain_Frame_9
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 620
+      y: 227
+      width: 48
+      height: 67
+    spriteID: 2c9f4beb1b05f454eb9a05a12e7a9aa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 620, y: 227}
+  - name: 5-Enemy-Captain_Frame_12
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 446
+      y: 302
+      width: 48
+      height: 63
+    spriteID: 2ae431ac1080d2347b902f8bcfa1d5ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 446, y: 302}
+  - name: 5-Enemy-Captain_Frame_14
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 154
+      width: 48
+      height: 65
+    spriteID: b0ec43818e57dca48a0cd40f2bf8d37a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 154}
+  - name: 5-Enemy-Captain_Frame_15
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 398
+      y: 154
+      width: 48
+      height: 65
+    spriteID: 891d79f02875d014f950274e4a97c1b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 398, y: 154}
+  - name: 5-Enemy-Captain_Frame_16
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 454
+      y: 154
+      width: 48
+      height: 65
+    spriteID: e713b17add3ff4c4a94840caf50a7c96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 454, y: 154}
+  - name: 5-Enemy-Captain_Frame_17
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 510
+      y: 154
+      width: 48
+      height: 65
+    spriteID: 506ad1a57f41fec49a928bb590f0021e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 510, y: 154}
+  - name: 5-Enemy-Captain_Frame_18
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 566
+      y: 154
+      width: 48
+      height: 65
+    spriteID: 2d07282660b092b4dac13a5fbe87d566
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 566, y: 154}
+  - name: 5-Enemy-Captain_Frame_19
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 154
+      width: 48
+      height: 65
+    spriteID: dc1ba587ca119b24190afe54957297ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 154}
+  - name: 5-Enemy-Captain_Frame_20
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 678
+      y: 154
+      width: 48
+      height: 65
+    spriteID: a017eb72c1c8ff74ab6798dbcb08827e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 678, y: 154}
+  - name: 5-Enemy-Captain_Frame_21
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 734
+      y: 154
+      width: 48
+      height: 65
+    spriteID: 09009ccef6fb43e4fa66306e139a795a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 734, y: 154}
+  - name: 5-Enemy-Captain_Frame_22
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 790
+      y: 154
+      width: 48
+      height: 65
+    spriteID: 29511ebfd838c9d4cb76bda0e354be83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 790, y: 154}
+  - name: 5-Enemy-Captain_Frame_23
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 846
+      y: 154
+      width: 48
+      height: 65
+    spriteID: cf2dbe834a6689545ae515c2a5821f21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 846, y: 154}
+  - name: 5-Enemy-Captain_Frame_29
+    originalName: 
+    pivot: {x: 0.62, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 74
+      width: 50
+      height: 69
+    spriteID: a7bf59b6b59178542b7f78d4872961cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 74}
+  - name: 5-Enemy-Captain_Frame_34
+    originalName: 
+    pivot: {x: 0.6, y: -0.07692309}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 379
+      width: 45
+      height: 65
+    spriteID: b11aa13b8befdcf40bcc329c81f88691
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 379}
+  - name: 5-Enemy-Captain_Frame_35
+    originalName: 
+    pivot: {x: 0.6, y: -0.07692309}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 379
+      width: 45
+      height: 65
+    spriteID: 93e775526c557704796cb6a3d3b65774
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 379}
+  - name: 5-Enemy-Captain_Frame_38
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 636
+      y: 74
+      width: 50
+      height: 66
+    spriteID: d26c14a9360ddbc46be9644065f435b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 636, y: 74}
+  - name: 5-Enemy-Captain_Frame_41
+    originalName: 
+    pivot: {x: 0.6, y: -0.09375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 379
+      width: 45
+      height: 64
+    spriteID: 690d1bb85d63e6940837517ca1cde99e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 478, y: 379}
+  - name: 5-Enemy-Captain_Frame_42
+    originalName: 
+    pivot: {x: 0.6, y: -0.09375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 379
+      width: 45
+      height: 64
+    spriteID: 5e7c12a648c6e9d4db34772ce9723533
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 379}
+  - name: 5-Enemy-Captain_Frame_45
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 694
+      y: 74
+      width: 50
+      height: 66
+    spriteID: 13ffc65d205972a4dab1dfc16f97ba71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 694, y: 74}
+  - name: 5-Enemy-Captain_Frame_48
+    originalName: 
+    pivot: {x: 0.6136364, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 379
+      width: 44
+      height: 70
+    spriteID: a7fe0004412e5de43812cba3c507feb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 379}
+  - name: 5-Enemy-Captain_Frame_54
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 846
+      y: 227
+      width: 50
+      height: 63
+    spriteID: bdc318326079e584ebd58d4ba47a3990
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 846, y: 227}
+  - name: 5-Enemy-Captain_Frame_59
+    originalName: 
+    pivot: {x: 0.6041667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 74
+      width: 48
+      height: 72
+    spriteID: 15723a51e86449e4d993bb8f3a336c48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 74}
+  - name: 5-Enemy-Captain_Frame_65
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.061538465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 902
+      y: 154
+      width: 48
+      height: 65
+    spriteID: cea773835cda9f54bad43c2aaa8646ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 902, y: 154}
+  - name: 5-Enemy-Captain_Frame_68
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 752
+      y: 74
+      width: 50
+      height: 66
+    spriteID: c1a8b3230b48a9e4490c7a8420ac0838
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 752, y: 74}
+  - name: 5-Enemy-Captain_Frame_71
+    originalName: 
+    pivot: {x: 0.6041667, y: -0.078125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 302
+      width: 48
+      height: 64
+    spriteID: d3b2cfc39a0f1d0469a0e5952105498c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 278, y: 302}
+  - name: 5-Enemy-Captain_Frame_74
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 810
+      y: 74
+      width: 50
+      height: 66
+    spriteID: 2705e8baca0d6174293696db2c9f4a78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 810, y: 74}
+  - name: 5-Enemy-Captain_Frame_76
+    originalName: 
+    pivot: {x: 0.6, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 379
+      width: 45
+      height: 63
+    spriteID: 4e7f91bdd6ebeb64ea4352c6913baeaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 743, y: 379}
+  - name: 5-Enemy-Captain_Frame_77
+    originalName: 
+    pivot: {x: 0.6, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 379
+      width: 45
+      height: 63
+    spriteID: 0659c21844498e64a975d32c0917d133
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 379}
+  - name: 5-Enemy-Captain_Frame_79
+    originalName: 
+    pivot: {x: 0.6, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 849
+      y: 379
+      width: 45
+      height: 63
+    spriteID: ac731c8c80900fc469ca5808a4586372
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 849, y: 379}
+  - name: 5-Enemy-Captain_Frame_84
+    originalName: 
+    pivot: {x: 0.5671641, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 834
+      y: 302
+      width: 67
+      height: 44
+    spriteID: 9a34f8d302b919847a1101d9bb5e638c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 834, y: 302}
+  - name: 5-Enemy-Captain_Frame_85
+    originalName: 
+    pivot: {x: 0.5671641, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 909
+      y: 302
+      width: 67
+      height: 44
+    spriteID: 3a2778db37adf4a4889cca22b764e39d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 909, y: 302}
+  - name: 5-Enemy-Captain_Frame_87
+    originalName: 
+    pivot: {x: 0.5671641, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 4
+      width: 67
+      height: 44
+    spriteID: 1453c2f14f3f15d4fa0c9dbb66c3fae6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 4}
+  - name: 5-Enemy-Captain_Frame_90
+    originalName: 
+    pivot: {x: 0.5633803, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 902
+      y: 421
+      width: 71
+      height: 34
+    spriteID: ea4af16676351084ca8a14d7daf48bef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 902, y: 421}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1544697163
+    name: 5-Enemy-Captain
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 5-Enemy-Captain_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: 2c0eaed0e3a8b9f48a1174ed5e8f2cf1
+    - name: 5-Enemy-Captain_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 66
+      spriteId: cd8036edd61ca9049a0c436efb0ee6d1
+    - name: 5-Enemy-Captain_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 63
+      spriteId: cbaffde08d24dac48990c3dd93fd6e6c
+    - name: 5-Enemy-Captain_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 86630ebc4158df1489ae4dff5c7b56b5
+    - name: 5-Enemy-Captain_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 0a5334d656e3bbd4597cec0a28df5897
+    - name: 5-Enemy-Captain_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 50
+        height: 65
+      spriteId: c0e8b019b020efe40b726528fd17dbf6
+    - name: 5-Enemy-Captain_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 50
+        height: 65
+      spriteId: a0f3f8a4689805f4abc161eb26370845
+    - name: 5-Enemy-Captain_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 50
+        height: 66
+      spriteId: dec6b638976bf5641bb98cb7ea4be780
+    - name: 5-Enemy-Captain_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 50
+        height: 69
+      spriteId: 730677ed2821cfd48b2c9ad06c2b9253
+    - name: 5-Enemy-Captain_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 50
+        height: 67
+      spriteId: 713943f248b65f043834befd22257270
+    - name: 5-Enemy-Captain_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: d01e2f00be13a644e9634e3e5cacf91e
+    - name: 5-Enemy-Captain_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 2
+        width: 44
+        height: 66
+      spriteId: b3c553fe006eb464782a3b93a7bcaf41
+    - name: 5-Enemy-Captain_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 5
+        width: 45
+        height: 65
+      spriteId: 57de8a23eab782849a66352ce9308049
+    - name: 5-Enemy-Captain_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 3
+        width: 44
+        height: 66
+      spriteId: 8d42879b13a02474ba457637bb2da146
+    - name: 5-Enemy-Captain_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: 65c800e38d58e6c4b970b84efd17a6d7
+    - name: 5-Enemy-Captain_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 46
+        height: 65
+      spriteId: ecfd7fb3e9366a04b94831dafee4106e
+    - name: 5-Enemy-Captain_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 64
+      spriteId: a673c89a7fd7d424aa45dddade5379a9
+    - name: 5-Enemy-Captain_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 4
+        width: 46
+        height: 65
+      spriteId: 4c95a748948029448871d77c8736eae1
+    - name: 5-Enemy-Captain_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: a5ecb35be921c764cb161b44cc9c63b4
+    - name: 5-Enemy-Captain_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: be5aa12c26a3f76448843929bfcc650f
+    - name: 5-Enemy-Captain_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 44
+        height: 70
+      spriteId: 5fa7e069be2802a4894d6fa2827090c0
+    - name: 5-Enemy-Captain_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 46
+        height: 67
+      spriteId: 3545f936f23432640871f2a4faac164a
+    - name: 5-Enemy-Captain_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 7
+        width: 48
+        height: 63
+      spriteId: 6819a012fdadff54cb7cada41cb34e98
+    - name: 5-Enemy-Captain_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 3
+        width: 46
+        height: 67
+      spriteId: 21744125e7d4d9b46bc71b33a0a9ce2a
+    - name: 5-Enemy-Captain_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 1
+        width: 46
+        height: 69
+      spriteId: 6092d223374832c449741c9621e9cf7a
+    - name: 5-Enemy-Captain_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 63
+      spriteId: ababa789e3e38f44786875562e659fab
+    - name: 5-Enemy-Captain_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 41a3da0ec2eec7f48b0267b3ad5e199c
+    - name: 5-Enemy-Captain_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 68
+      spriteId: 3b32216f27f69ae48930771b07eecc98
+    - name: 5-Enemy-Captain_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 69
+      spriteId: 62d4b4cd3ce72ec4f95a0c6d44993b0e
+    - name: 5-Enemy-Captain_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 72
+      spriteId: 787871d9fda8a1a488b3c6b7d915e122
+    - name: 5-Enemy-Captain_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 70
+        height: 62
+      spriteId: 5b1b4a1a66e5be74092eca7e00df25f2
+    - name: 5-Enemy-Captain_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 68
+        height: 62
+      spriteId: 9452cd068ed6bd3479308dfcafcf72c5
+    - name: 5-Enemy-Captain_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 64
+      spriteId: 940dc117bcb9fb94184760e60123fe0e
+    - name: 5-Enemy-Captain_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 2
+        width: 48
+        height: 65
+      spriteId: d54f6e50698d9a140a262ccd19bd9573
+    - name: 5-Enemy-Captain_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 4
+        width: 48
+        height: 65
+      spriteId: ac393f38669a84b4b9b5ce2b177edf47
+    - name: 5-Enemy-Captain_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 2
+        width: 48
+        height: 66
+      spriteId: b024b723887b5c0449cd4e1e8b11371d
+    - name: 5-Enemy-Captain_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: 1a29c3c5c8ad8e9459c7715ef5624b81
+    - name: 5-Enemy-Captain_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 3
+        width: 48
+        height: 64
+      spriteId: c0df0bf26e0c76740a46c2f61df01a15
+    - name: 5-Enemy-Captain_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 5
+        width: 48
+        height: 64
+      spriteId: 20e16d85aa691d540be2641283ec0dab
+    - name: 5-Enemy-Captain_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 3
+        width: 48
+        height: 65
+      spriteId: 0eb922cdb7d211e478f5008f1ac1a5b7
+    - name: 5-Enemy-Captain_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: d514d14ff64653b4b96f9b50dcdb9b8e
+    - name: 5-Enemy-Captain_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 63
+      spriteId: f84f618ee9f3218448e19494c699f869
+    - name: 5-Enemy-Captain_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 63
+      spriteId: 59b0bc974ee79f04d8856c6293e58f6d
+    - name: 5-Enemy-Captain_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 63
+      spriteId: b8ccc37e32c8eb24a9e44daba1eca789
+    - name: 5-Enemy-Captain_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 5
+        width: 46
+        height: 64
+      spriteId: 03fa87be62f63a847b82ee9b43aafebd
+    - name: 5-Enemy-Captain_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 2
+        width: 48
+        height: 67
+      spriteId: 83d27f0bbe15a804093ab7ac024bcbc1
+    - name: 5-Enemy-Captain_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 8
+        width: 67
+        height: 44
+      spriteId: dc3fadfd99c54a344bda058b49e53123
+    - name: 5-Enemy-Captain_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 8
+        width: 67
+        height: 44
+      spriteId: 1a17e07359a2545468a9dbe6833ffd74
+    - name: 5-Enemy-Captain_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 8
+        width: 66
+        height: 45
+      spriteId: 5a767d8e3d4ac4942a4aa72936b91f6a
+    - name: 5-Enemy-Captain_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 71
+        height: 34
+      spriteId: 05d3a3946195fe44dafbd4d5567be1a1
+    - name: 5-Enemy-Captain_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 67
+        height: 35
+      spriteId: a81c13ae3f39b934f8ca992353296fcd
+    - name: 5-Enemy-Captain_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 67
+        height: 36
+      spriteId: fbac6669ef903ce43bdbc08bf12f2298
+    - name: 5-Enemy-Captain_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: 614a9f638df42e04dbe2116031285f50
+    - name: 5-Enemy-Captain_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: ef7b11304de821d4ca5026563199e5cb
+    - name: 5-Enemy-Captain_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: a339b2fba39fa1b4e88ad482051d0b94
+    - name: 5-Enemy-Captain_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: 002878dc63e2d1d48a4f1dcb122b4187
+    - name: 5-Enemy-Captain_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: 3d1652c7ece282f4b94c756a28d3b77d
+    - name: 5-Enemy-Captain_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: 77e5cb3371503ea4d8a6b8d102eff502
+    - name: 5-Enemy-Captain_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: 4e3f26bc278d9bf4ba1e70a03878d4bd
+    - name: 5-Enemy-Captain_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: dbffa274f8a6dc34aa901536e09d4592
+    - name: 5-Enemy-Captain_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 67
+      spriteId: 2c9f4beb1b05f454eb9a05a12e7a9aa6
+    - name: 5-Enemy-Captain_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 63
+      spriteId: 2ae431ac1080d2347b902f8bcfa1d5ec
+    - name: 5-Enemy-Captain_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: b0ec43818e57dca48a0cd40f2bf8d37a
+    - name: 5-Enemy-Captain_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 891d79f02875d014f950274e4a97c1b1
+    - name: 5-Enemy-Captain_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: e713b17add3ff4c4a94840caf50a7c96
+    - name: 5-Enemy-Captain_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 506ad1a57f41fec49a928bb590f0021e
+    - name: 5-Enemy-Captain_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 2d07282660b092b4dac13a5fbe87d566
+    - name: 5-Enemy-Captain_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: dc1ba587ca119b24190afe54957297ef
+    - name: 5-Enemy-Captain_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: a017eb72c1c8ff74ab6798dbcb08827e
+    - name: 5-Enemy-Captain_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 09009ccef6fb43e4fa66306e139a795a
+    - name: 5-Enemy-Captain_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: 29511ebfd838c9d4cb76bda0e354be83
+    - name: 5-Enemy-Captain_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      spriteId: cf2dbe834a6689545ae515c2a5821f21
+    - name: 5-Enemy-Captain_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 50
+        height: 69
+      spriteId: a7bf59b6b59178542b7f78d4872961cb
+    - name: 5-Enemy-Captain_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 5
+        width: 45
+        height: 65
+      spriteId: b11aa13b8befdcf40bcc329c81f88691
+    - name: 5-Enemy-Captain_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 5
+        width: 45
+        height: 65
+      spriteId: 93e775526c557704796cb6a3d3b65774
+    - name: 5-Enemy-Captain_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: d26c14a9360ddbc46be9644065f435b4
+    - name: 5-Enemy-Captain_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 64
+      spriteId: 690d1bb85d63e6940837517ca1cde99e
+    - name: 5-Enemy-Captain_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 64
+      spriteId: 5e7c12a648c6e9d4db34772ce9723533
+    - name: 5-Enemy-Captain_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: 13ffc65d205972a4dab1dfc16f97ba71
+    - name: 5-Enemy-Captain_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 44
+        height: 70
+      spriteId: a7fe0004412e5de43812cba3c507feb0
+    - name: 5-Enemy-Captain_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 63
+      spriteId: bdc318326079e584ebd58d4ba47a3990
+    - name: 5-Enemy-Captain_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 0
+        width: 48
+        height: 72
+      spriteId: 15723a51e86449e4d993bb8f3a336c48
+    - name: 5-Enemy-Captain_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 4
+        width: 48
+        height: 65
+      spriteId: cea773835cda9f54bad43c2aaa8646ec
+    - name: 5-Enemy-Captain_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: c1a8b3230b48a9e4490c7a8420ac0838
+    - name: 5-Enemy-Captain_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 5
+        width: 48
+        height: 64
+      spriteId: d3b2cfc39a0f1d0469a0e5952105498c
+    - name: 5-Enemy-Captain_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 0
+        width: 50
+        height: 66
+      spriteId: 2705e8baca0d6174293696db2c9f4a78
+    - name: 5-Enemy-Captain_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 63
+      spriteId: 4e7f91bdd6ebeb64ea4352c6913baeaf
+    - name: 5-Enemy-Captain_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 63
+      spriteId: 0659c21844498e64a975d32c0917d133
+    - name: 5-Enemy-Captain_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 6
+        width: 45
+        height: 63
+      spriteId: ac731c8c80900fc469ca5808a4586372
+    - name: 5-Enemy-Captain_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 8
+        width: 67
+        height: 44
+      spriteId: 9a34f8d302b919847a1101d9bb5e638c
+    - name: 5-Enemy-Captain_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 8
+        width: 67
+        height: 44
+      spriteId: 3a2778db37adf4a4889cca22b764e39d
+    - name: 5-Enemy-Captain_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 8
+        width: 67
+        height: 44
+      spriteId: 1453c2f14f3f15d4fa0c9dbb66c3fae6
+    - name: 5-Enemy-Captain_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 71
+        height: 34
+      spriteId: ea4af16676351084ca8a14d7daf48bef
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 72}
